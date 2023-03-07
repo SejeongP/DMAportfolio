@@ -2,8 +2,8 @@
 
 
 body {
-  padding-top: 5rem;
-  margin: 5em;
+  padding-top: 3rem;
+  margin: 1em;
   color: gray;
   font-family: Athelas;
 background-image: url("https://cdn.glitch.me/1c92fbe9-6720-4330-906d-f5399039e2cf%2FCovid.jpg?v=1636609778138");
@@ -39,4 +39,12 @@ p  {
     color: orange;
 
 }
+p1  {
+  font-size: 60px;
+    color: orange;
+
+
+}
+
+
 
